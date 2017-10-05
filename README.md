@@ -4,8 +4,10 @@ Let's play the great color guessing game!
 # Project Overview
 
 This is my first interactive web game using **HTML**, **CSS**, and **Javascript**. The goal of this project is to familiar 
-myself with a range of **DOM** manipulations as well as to further develop my UI design skills. To win the game, the player 
-will have to guess correctly the color square based on a randomly generated **RGB** value. 
+myself with a range of **DOM** manipulations as well as to further develop my UI design skills. It is worthnoting that I 
+deliberately avoid using **jQuery** in this project in order to better explore "vanilla" Javascript.
+
+To win the game, the player will have to guess correctly the color square based on a randomly generated **RGB** value. 
 There are currently two levels of difficulty and my code makes it very easy to add more levels in the future.
 The below GIF shows the basic game flow.
 
